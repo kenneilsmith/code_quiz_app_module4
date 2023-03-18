@@ -39,7 +39,9 @@ This web application is used to generate a password with the criterias that are 
 This project is licensed under the MIT License.
 
 ## Credits
-   -  JD Todlock - Bootcamp Instruction  
+   -  JD Todlock - Bootcamp Instructor 
+   -  Justyn Subrai - Bootcamp TA
+   -  Paul Cwik - Bootcamp TA 
 
 
 ## Contact
